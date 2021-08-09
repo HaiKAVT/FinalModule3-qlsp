@@ -1,14 +1,16 @@
-dao/ConnectionSQL.java
- dao.ConnectionSQL
-models/Catagory.java
- models.Catagory
-models/SanPham.java
- models.SanPham
-services/SanPhamServices.java
- services.SanPhamServices
-controller/SanPhamServlet.java
- controller.SanPhamServlet
-dao/CRUDSanPham.java
- dao.CRUDSanPham
-dao/CRUDCatagory.java
- dao.CRUDCatagory
+Services/ProductService.java
+ Services.ProductService
+Models/Product.java
+ Models.Product
+Models/Category.java
+ Models.Category
+Dao/ConnectionSQL.java
+ Dao.ConnectionSQL
+Services/CategoryService.java
+ Services.CategoryService
+Dao/ManageProduct.java
+ Dao.ManageProduct
+Controller/ProductServlet.java
+ Controller.ProductServlet
+Dao/ManageCategory.java
+ Dao.ManageCategory
